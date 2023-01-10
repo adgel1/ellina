@@ -16,12 +16,12 @@ body {
 }
 .top-cloud {
   position: absolute;
-  right:4rem;
-  top:40%;
+  right:18.75rem;
+  top:30%;
 }
 .bottom-cloud {
   position: absolute;
-  left: 10rem;
+  left: 18.75rem;
   bottom: 12.5rem;
 }
 .mo {

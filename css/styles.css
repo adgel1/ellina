@@ -17,7 +17,7 @@ body {
 .top-cloud {
   position: absolute;
   right:5rem;
-  top:50%;
+  top:auto;
 }
 .bottom-cloud {
   position: absolute;
